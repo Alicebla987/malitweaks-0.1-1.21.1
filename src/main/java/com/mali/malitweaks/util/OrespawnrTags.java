@@ -32,8 +32,8 @@ public class OrespawnrTags {
         public static final TagKey<Block> INCORRECT_FOR_TIGEREYES_TOOL = createTag("incorrect_for_tigereyes_tool");
 
 
-
-
+        public static final TagKey<Block> NEEDS_BLOOD_TOOL = createTag("needs_blood_tool");
+        public static final TagKey<Block> INCORRECT_FOR_BLOOD_TOOL = createTag("incorrect_for_blood_tool");
 
 
 

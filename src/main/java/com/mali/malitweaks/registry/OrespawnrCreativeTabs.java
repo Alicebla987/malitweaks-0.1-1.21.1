@@ -79,6 +79,7 @@ public class OrespawnrCreativeTabs {
 
 
                         output.accept(Items.DIAMOND);
+                        output.accept(OrespawnrItems.ADAGA_DEMONIACA);
 
 
 

@@ -7,11 +7,11 @@
     " I "
   ],
   "key": {
-    "U": {
-      "item": "orespawnr:uranium"
-    },
     "T": {
       "item": "orespawnr:titanium"
+    },
+    "U": {
+      "item": "orespawnr:uranium"
     },
     "I": {
       "item": "minecraft:iron_ingot"
@@ -23,8 +23,8 @@
     "components": {
       "minecraft:enchantments": {
         "levels": {
-          "minecraft:fortune": 5,
-          "minecraft:efficiency": 5
+          "minecraft:efficiency": 5,
+          "minecraft:fortune": 5
         }
       }
     }

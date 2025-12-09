@@ -50,6 +50,7 @@ public class OrespawnrItemModelProvider extends ItemModelProvider {
 
 
         handheldItem(OrespawnrItems.TESTANDO_SWORD.get());
+        handheldItem(OrespawnrItems.ADAGA_DEMONIACA.get());
 
 
 

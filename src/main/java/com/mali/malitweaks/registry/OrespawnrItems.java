@@ -21,9 +21,9 @@ public class OrespawnrItems {
 
 
 
-
-
-
+    public static final DeferredItem<SwordItem> ADAGA_DEMONIACA = ITEMS.register("adaga_demoniaca",
+            () -> new SwordItem(OrespawnrToolTiers.BLOOD,new Item.Properties()
+                    .attributes(SwordItem.createAttributes(Tiers.DIAMOND,7, -2.4f))));
 
 
 

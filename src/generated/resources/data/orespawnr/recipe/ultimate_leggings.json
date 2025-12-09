@@ -7,11 +7,11 @@
     "U U"
   ],
   "key": {
-    "U": {
-      "item": "orespawnr:uranium"
-    },
     "T": {
       "item": "orespawnr:titanium"
+    },
+    "U": {
+      "item": "orespawnr:uranium"
     },
     "I": {
       "item": "minecraft:iron_ingot"
@@ -23,9 +23,9 @@
     "components": {
       "minecraft:enchantments": {
         "levels": {
-          "minecraft:blast_protection": 5,
-          "minecraft:protection": 5,
           "minecraft:fire_protection": 5,
+          "minecraft:protection": 5,
+          "minecraft:blast_protection": 5,
           "minecraft:projectile_protection": 5
         }
       }
