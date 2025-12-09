@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "T T",
+    "U U"
+  ],
+  "key": {
+    "U": {
+      "item": "orespawnr:uranium"
+    },
+    "T": {
+      "item": "orespawnr:titanium"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "orespawnr:ultimate_leggings",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:blast_protection": 5,
+          "minecraft:protection": 5,
+          "minecraft:fire_protection": 5,
+          "minecraft:projectile_protection": 5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "itemGroup.malitweaks": "Example Mod Tab",
+  "block.malitweaks.example_block": "Example Block",
+  "item.malitweaks.example_item": "Example Item",
+
+  "malitweaks.configuration.title": "Mali Tweaks Configs",
+  "malitweaks.configuration.section.malitweaks.common.toml": "Mali Tweaks Configs",
+  "malitweaks.configuration.section.malitweaks.common.toml.title": "Mali Tweaks Configs",
+  "malitweaks.configuration.items": "Item List",
+  "malitweaks.configuration.logDirtBlock": "Log Dirt Block",
+  "malitweaks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "malitweaks.configuration.magicNumber": "Magic Number"
+}

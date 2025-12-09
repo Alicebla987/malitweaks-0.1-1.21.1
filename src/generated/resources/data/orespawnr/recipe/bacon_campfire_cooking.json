@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "bacon",
+  "ingredient": {
+    "item": "orespawnr:raw_bacon"
+  },
+  "result": {
+    "count": 1,
+    "id": "orespawnr:cooked_bacon"
+  }
+}

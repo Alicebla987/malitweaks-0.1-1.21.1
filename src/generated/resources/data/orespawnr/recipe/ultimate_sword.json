@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " T ",
+    " U ",
+    " I "
+  ],
+  "key": {
+    "U": {
+      "item": "orespawnr:uranium"
+    },
+    "T": {
+      "item": "orespawnr:titanium"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "orespawnr:ultimate_sword",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:looting": 3,
+          "minecraft:knockback": 3,
+          "minecraft:bane_of_arthropods": 5,
+          "minecraft:sharpness": 5,
+          "minecraft:unbreaking": 3,
+          "minecraft:fire_aspect": 2,
+          "minecraft:smite": 5
+        }
+      }
+    }
+  }
+}

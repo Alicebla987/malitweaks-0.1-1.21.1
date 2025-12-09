@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "TU ",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "U": {
+      "item": "orespawnr:uranium"
+    },
+    "T": {
+      "item": "orespawnr:titanium"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "orespawnr:ultimate_hoe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:efficiency": 2
+        }
+      }
+    }
+  }
+}

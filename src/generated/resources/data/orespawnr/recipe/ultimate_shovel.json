@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " U ",
+    " T ",
+    " I "
+  ],
+  "key": {
+    "U": {
+      "item": "orespawnr:uranium"
+    },
+    "T": {
+      "item": "orespawnr:titanium"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "orespawnr:ultimate_shovel",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:efficiency": 5
+        }
+      }
+    }
+  }
+}

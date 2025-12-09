@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "UUU",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "U": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "id": "orespawnr:emerald_pickaxe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:silk_touch": 1
+        }
+      }
+    }
+  }
+}

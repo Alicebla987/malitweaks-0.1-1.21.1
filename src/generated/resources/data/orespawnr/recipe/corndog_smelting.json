@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "bacon",
+  "ingredient": {
+    "item": "orespawnr:corndog_raw"
+  },
+  "result": {
+    "count": 1,
+    "id": "orespawnr:corndog_cooked"
+  }
+}
